@@ -21,3 +21,14 @@ If you find a bug in the code, kindly open an issue here <https://github.com/Anu
 ## Future Scope
 The major scope for future is Deployment. I am currently working on it as soon I finish it, I will include all the required website here
 If there will be some suggestion or new features or modifing existing one you can open pull request here <https://github.com/AnubhaV1212/IMDb-Review-Classifier/pulls>
+
+## IMDb 
+IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online 
+– including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. An additional fan feature, message boards, was 
+abandoned in February 2017. Originally a fan-operated website, the database is now owned and operated by IMDb.com, Inc., a subsidiary of Amazon.
+
+## Data Source 
+You can download data from here https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+For more dataset information, please go through the following link, http://ai.stanford.edu/~amaas/data/sentiment/
+
+Data Source: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
