@@ -27,7 +27,6 @@ IMDb (an acronym for Internet Movie Database) is an online database of informati
 abandoned in February 2017. Originally a fan-operated website, the database is now owned and operated by IMDb.com, Inc., a subsidiary of Amazon.
 
 ## Data Source 
-You can download data from here https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 For more dataset information, please go through the following link, http://ai.stanford.edu/~amaas/data/sentiment/
 
 Data Source: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
