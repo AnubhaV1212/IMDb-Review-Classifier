@@ -18,7 +18,7 @@ To install all other libraries open command prompt or your env console and type 
 If you find a bug in the code, kindly open an issue here <https://github.com/AnubhaV1212/IMDb-Review-Classifier/issues>
 
 ## Future Scope
-The major scope for future is Deployment. I am currently working on it as soon I finish it, I will include all the required website here
+The future scope is Deployment using PYWebio library instead of flask
 If there will be some suggestion or new features or modifing existing one you can open pull request here <https://github.com/AnubhaV1212/IMDb-Review-Classifier/pulls>
 
 ## IMDb 
